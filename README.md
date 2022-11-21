@@ -1,5 +1,5 @@
 - 👋 Hi, Here is @MramAlfawaz
-- 📫 How to reach me: Twitter @meducs 
+- 📫 How to reach me: Twitter @m11ram
 
 <!---
 MramAlfawaz/MramAlfawaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
