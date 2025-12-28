@@ -1,11 +1,10 @@
-  ✨ 👀 ✨
 
 - 👋 Hi, Here is @MramAlfawaz , A Programmer and Security Researcher 👀
 - 💞️ I would very happy to collaborate on any project about exploit development and penetration testing tools or if you need any help!
 - 🌱 Certified with Advanced Profossional Certificates e.g., GXPN
 - 📫 How to reach me: Twitter @m11ram
 
-  ✨ 👀 ✨
+                                                                            ✨ 👀 ✨
 
 <!---
 MramAlfawaz/MramAlfawaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
